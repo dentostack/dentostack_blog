@@ -1,10 +1,2 @@
-baseURL = 'https://blog.dentostack.in/'
 languageCode = 'en-us'
-title = 'Dentostack Blog'
 theme = 'hugo-theme-stack'
-
-[params]
-description = "Write A Meta Description"
-
-  [params.sidebar]
-  Subtitle = "Desc"
