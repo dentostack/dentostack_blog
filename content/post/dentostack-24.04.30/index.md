@@ -1,7 +1,7 @@
 +++
 author = "Priya Kumari"
 title = "New Dentostack 24.04.30 Release: Packed with Enhanced Features!"
-date = "2024-05-02"
+date = "2024-05-03"
 description = "Discover the latest Dentostack 24.04.30 release, packed with enhanced features for streamlined dental practice management. Explore the updates designed to elevate efficiency and improve user experience."
 tags = [
     "Dental Practice Management",
