@@ -1,8 +1,8 @@
 +++
 author = "Priya Kumari"
-title = "New Dentostack 24.04.30 Release: Packed with Enhanced Features!"
-date = "2024-05-03"
-description = "Discover the latest Dentostack 24.04.30 release, packed with enhanced features for streamlined dental practice management. Explore the updates designed to elevate efficiency and improve user experience."
+title = "Dentostack Just Got Even Better: May 2024 Update"
+date = "2024-05-12"
+description = "Dentostack's latest update improves dental practice management with features like customizable invoice dates, WhatsApp appointment notifications, and easier appointment booking."
 tags = [
     "Dental Practice Management",
     "Practice Efficiency",
@@ -15,20 +15,47 @@ categories = [
 image = "cover.jpg"
 +++
 
-At Dentostack, we are thrilled to announce the release of Dentostack 24.04.30, our latest and most advanced version yet, launched on April 30, 2024. This milestone release embodies our commitment to innovation and excellence, offering a suite of powerful features designed to elevate dental practice management to new heights.
+Hey there! We at Dentostack are excited to announce a brand new update that makes managing your dental practice even smoother. This is our most advanced version yet, packed with features that will save you time and make things easier for you and your patients.
 
-# Streamlined Invoice Entry with Customizable Dates
+## No more date struggles!
 
-In our continuous quest to enhance user experience, we recognize the importance of flexibility and efficiency in everyday workflows. In previous versions of Dentostack, users encountered challenges when inputting transaction dates, often necessitating additional editing steps post-entry.
+![No more date struggles](/images/post/dentostack-24.04.30/transaction.gif)
 
-To address this, Dentostack 24.04.30 introduces a seamless solution. Now, when adding a new transaction, users have the freedom to select the desired date directly, eliminating the need for subsequent edits. This streamlined approach not only saves time but also ensures accuracy and ease of use. With the date field pre-filled with today's date, users can effortlessly manage transactions with unparalleled convenience.
+Previously, Dentostack automatically assigned today's date to new transactions. While you could edit the date later, it added an unnecessary extra step. We've listened to your feedback and made things smoother! Now, you can select the desired date right when you add a new transaction. This eliminates the need for backdating and ensures your records are accurate from the get-go. Save time and keep your finances organized with this update!
 
-# Enhanced Appointment Notifications with WhatsApp Integration
 
-Communication lies at the heart of patient care, and at Dentostack, we understand the significance of effective appointment notifications. While SMS has long been the standard channel for such notifications, the evolving landscape of messaging apps demands greater versatility.
+## Appointment reminders on WhatsApp
 
-With Dentostack 24.04.30, we are proud to introduce seamless WhatsApp integration for appointment notifications. Now, dental practices can leverage the power of WhatsApp to deliver confirmations, reminders, and cancellations directly to patients, enhancing communication and engagement. By enabling WhatsApp notifications through the Admin Panel, practices can embrace modern communication channels while maintaining reliability and efficiency.
+We've added support for sending appointment notifications directly through WhatsApp, eliminating the need to rely solely on SMS. This means you can now leverage the power of this popular messaging app to reach your patients more effectively and conveniently.
 
-# Simplified Appointment Booking with Direct Patient List Access
+Previously, all appointment notifications were sent via SMS.  However, with the rise of WhatsApp as the preferred communication platform for many, we wanted to offer a more modern and engaging way to connect with your patients.
 
-Efficiency is the cornerstone of successful dental practice management, and Dentostack 24.04.30 embodies this principle with a feature designed to streamline appointment booking. In previous versions, navigating through multiple screens to book appointments posed challenges for users, leading to potential delays and errors.
+The best part?  There's no additional fee to enable this feature!  Simply follow these easy steps within the Admin Panel:
+
+![Enable WhatsApp Notificatons](/images/post/dentostack-24.04.30/whatsapp.gif)
+
+1. Navigate to the Admin Panel.
+2. Go to the "Messages" section.
+3. Locate the option "Use WhatsApp for notifications" and switch it on.
+
+That's it! Once enabled, all future appointment confirmations, reminders, and cancellations will be sent directly to your patients' WhatsApp accounts.
+
+### Receive Appointment Notifications on Your WhatsApp
+
+Doctors and administrators can also opt to receive new appointment notifications on their personal WhatsApp accounts.  To enable this functionality, follow these steps:
+
+1. Go to "Settings" within the Admin Panel.
+2. Select "Appointment Settings".
+3. Locate the option "Send WhatsApp message when a new appointment is posted on the website" and switch it on.
+
+## Booking appointments just got easier!
+
+Scheduling appointments just got a whole lot easier with Dentostack's latest update. We've introduced a brand new feature that simplifies the process and saves you valuable time: a direct booking shortcut right within the patient search page.
+
+Previously, booking appointments involved navigating to a separate page, selecting the patient, and then finding a suitable time slot. This could be time-consuming, especially if you were dealing with a busy schedule.
+
+![Appointment Booking](/images/post/dentostack-24.04.30/appointment.gif)
+
+Now, things are much simpler! When you search for a patient on the Dentostack platform, you'll see a dedicated "Book Appointment" button conveniently located next to their information on the search results page itself. This eliminates the need for extra clicks and streamlines the patient selection process.
+
+With this update, scheduling appointments becomes a one-click operation, maximizing efficiency and ensuring a smoother workflow for your dental practice.
