@@ -1,7 +1,7 @@
 +++
 author = "Ekta Arya"
 title = "We have 4 Awesome Enhancements for Dentists this July"
-date = "2024-07-09"
+date = "2024-07-11"
 description = "Dentostack has introduced new features to enhance productivity and ease of use for dental clinics, streamlining daily activities and improving overall efficiency for dentists."
 tags = [
     "Appointment Management",
@@ -61,5 +61,6 @@ Final words to all the dentists out there, Our team at Dentostack is dedicated t
 Visit [dentostack.com](https://dentostack.com) to know more about dentostack and its services.
 
 ## About the Author
+![ekta arya](/images/authors/ekta.jpeg)
 
-Ekta Arya, Content Writer at Dentostack
+**Ekta Arya, Content Writer at Dentostack**, is a versatile person who works as a soft skills and communication trainer. She handles everything while enjoying exercise, yoga, reading, movies, and music.
