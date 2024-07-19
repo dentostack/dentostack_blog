@@ -63,4 +63,4 @@ Visit [dentostack.com](https://dentostack.com) to know more about dentostack and
 ## About the Author
 ![ekta arya](/images/authors/ekta.jpeg)
 
-**Ekta Arya, Content Writer at Dentostack**, is a versatile person who works as a soft skills and communication trainer. She handles everything while enjoying exercise, yoga, reading, movies, and music.
+**Ekta Arya, Content Writer at Dentostack**, is a versatile person who also works as a soft skills and communication trainer. She handles everything while enjoying exercise, yoga, reading, movies, and music.
